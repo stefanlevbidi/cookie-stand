@@ -1,1 +1,22 @@
-body 
+body {
+text-align: center;
+  background-color: salmon;
+  color: rgb(0, 0, 0);
+  font-family: 'Courier New';
+
+}
+
+a {
+  color: rgb(226, 12, 12);
+}
+
+td,
+th {
+  border: 1px solid rgb(219, 11, 11);
+  padding: 0.5rem;
+}
+
+#location {
+  display: flex;
+  justify-content: space-around;
+}
